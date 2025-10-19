@@ -1,1 +1,7 @@
 streamlit
+streamlit_cookies_manager
+datetime
+json
+os
+panda
+uuid
